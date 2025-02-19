@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/audioplayers_darwin-master.dia",
+    "emit-module-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/audioplayers_darwin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/audioplayers_darwin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/audioplayers_darwin-master.swiftdeps"
+  },
+  "/Users/angelo/.pub-cache/hosted/pub.dev/audioplayers_darwin-5.0.2/macos/Classes/AudioContext.swift" : {
+    "const-values" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.swiftconstvalues",
+    "dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.d",
+    "diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.o",
+    "llvm-bc" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.bc",
+    "object" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.o",
+    "swift-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext.swiftdeps",
+    "swiftmodule" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/AudioContext~partial.swiftmodule"
+  },
+  "/Users/angelo/.pub-cache/hosted/pub.dev/audioplayers_darwin-5.0.2/macos/Classes/SwiftAudioplayersDarwinPlugin.swift" : {
+    "const-values" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.swiftconstvalues",
+    "dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.d",
+    "diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.o",
+    "llvm-bc" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.bc",
+    "object" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.o",
+    "swift-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin.swiftdeps",
+    "swiftmodule" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/SwiftAudioplayersDarwinPlugin~partial.swiftmodule"
+  },
+  "/Users/angelo/.pub-cache/hosted/pub.dev/audioplayers_darwin-5.0.2/macos/Classes/Utils.swift" : {
+    "const-values" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.swiftconstvalues",
+    "dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.d",
+    "diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.o",
+    "swift-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils.swiftdeps",
+    "swiftmodule" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/Utils~partial.swiftmodule"
+  },
+  "/Users/angelo/.pub-cache/hosted/pub.dev/audioplayers_darwin-5.0.2/macos/Classes/WrappedMediaPlayer.swift" : {
+    "const-values" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.swiftconstvalues",
+    "dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.d",
+    "diagnostics" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.o",
+    "llvm-bc" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.bc",
+    "object" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.o",
+    "swift-dependencies" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer.swiftdeps",
+    "swiftmodule" : "/Users/angelo/Desktop/Intituto/Hibridas/tabatapp/Tabatapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers_darwin.build/Objects-normal/arm64/WrappedMediaPlayer~partial.swiftmodule"
+  }
+}
